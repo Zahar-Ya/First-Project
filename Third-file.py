@@ -1,6 +1,4 @@
-from traceback import print_tb
-
-
+# СТРОКИ
 F_str = 'Zahar'
 S_str = 'Gold'
 T_str = 'RuSSiA'
